@@ -7,16 +7,17 @@
 ### Observed - December 22nd 2017
 
 1. Random Selection from the range of coordinates:
-   Lattitude between (-90, 90) 
-   and 
+   Lattitude between (-90, 90) and 
    Longitude between (-180, 180) 
-   gives the shape of the globe.
+   gives the shape of the Globe.
    
-2. More than 60 countries have humidity 100%
+2. Humidity is at 100% level in many countries that is spread across the lattitude reading of -50 to +80.
 
-3. Between (-20, 20) Lattitude, the Temperatures are in between 50F and 90F
+3. With Latitude >20, the trend of Temperature is Downwards (the slope) and it reaches to SUB ZERO F level between Latitude from 60 to 80.
 
-4. High Wind Speed Bethel, US 35.57mph
+4. Cloudiness is spread from 0 to 100% level across the entire range of Latitude. 
+
+5. Majority of the citiies have Wind Speed of from 0 to 5 mph with the latitude ranging from -50 to +80.
 
 
 ```python
